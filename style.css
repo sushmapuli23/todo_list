@@ -1,0 +1,79 @@
+html,body{
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 360px;
+}
+
+#inputField{
+    width: 200px;
+    height: 30px;
+    border: 1px solid rgb(93, 93, 94);
+    outline: none;
+    font-size: 15px;
+    vertical-align: middle;
+}
+
+#addtodo{
+    margin-left: .2rem;
+    height: 2rem;
+    width: 4rem;
+    background-color: rgb(63, 193, 226);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+.todos{
+    margin-top: 25px;
+}
+
+.paragrah-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+    padding-top: 10rem;
+}
+
+input[type=text]{
+    width: 20%;
+    height:2rem;
+}
+input[type=submit]{
+    text-align: center;
+    width: 3rem;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-Color: rgb(90, 174, 207);
+    border: none;
+    border-radius: 10%;
+}
+
+input::placeholder{
+    text-align: center;
+} */
